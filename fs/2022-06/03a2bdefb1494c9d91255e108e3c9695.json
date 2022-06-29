@@ -1,0 +1,9 @@
+{
+    "pair0_symbol": "VAN", // pair0 代币名称
+    "pair0_address": "VFLe6ohvbKWmC9bRAdYgzLyaM1rm2n2SFR", // pair 0 代币地址
+    "pair0_decimals": 18, // pair0 代币精度
+    "pair1_symbol": "WVS", // pair1 代币名称
+    "pair1_address": "VGjpyoQffd8F29iTzkwXXPumrNu2KMS9J9", // pair 1 代币地址
+    "pair1_decimals": 6, // pair1 精度
+    "pair_address": "VQd6e9gC6oPLYL6shYfKYoTPECLix3GvRk", // pair 合约地址
+}
