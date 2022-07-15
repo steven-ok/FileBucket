@@ -1,0 +1,34 @@
+{
+    "timeStamp": 1657179822000,
+    "triggerName": "contractEventTrigger",
+    "uniqueId": "aef7e257f2af32ced2a4a732ed8f7b2af097e05bc958139046a16655e614bfd5_4",
+    "transactionId": "aef7e257f2af32ced2a4a732ed8f7b2af097e05bc958139046a16655e614bfd5",
+    "contractAddress": "VWquiq7aA7hiWN2vt9TegvmKePGSgVKvKB",
+    "callerAddress": "",
+    "originAddress": "VE7MRsfUY6QvETn9MbSbAuTBcnDsi7ZY4X",
+    "creatorAddress": "VE7MRsfUY6QvETn9MbSbAuTBcnDsi7ZY4X",
+    "blockNumber": 7055361,
+    "removed": false,
+    "latestSolidifiedBlockNumber": 7055357,
+    "logInfo": null,
+    "rawData": {
+        "address": "dd67e56cc40036fd83ecdc8f33e9b6990f1c0225",
+        "topics": [
+            "59a0e90ac8a93a92ce8d78b4e3fe104c467de019634422203e52b9b2f7a0a1e2",
+            "00000000000000000000000025d974fb84849eac8743388beeb0ff83925f0d10"
+        ],
+        "data": "00000000000000000000000000000000000000000000000257853b1dd8e00000"
+    },
+    "abi": null,
+    "eventSignature": "Share(address,uint256)",
+    "eventSignatureFull": "Share(address user,uint256 amount)",
+    "eventName": "Share",
+    "topicMap": {
+        "0": "VE7MRsfUY6QvETn9MbSbAuTBcnDsi7ZY4X",
+        "user": "VE7MRsfUY6QvETn9MbSbAuTBcnDsi7ZY4X"
+    },
+    "dataMap": {
+        "1": "43200000000000000000",
+        "amount": "43200000000000000000"
+    }
+}
